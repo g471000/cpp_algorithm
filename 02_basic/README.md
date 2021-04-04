@@ -1,5 +1,5 @@
-#The Basics of C++
-#Intro to the C++ language
+# The Basics of C++
+## Intro to the C++ language
 Let's lookat the simplest possible program:
 ```
 int main()
