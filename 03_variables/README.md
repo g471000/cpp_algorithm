@@ -1,5 +1,5 @@
-#Variables
-#cin
+# Variables
+## cin
 We practiced using *cout*, last time, and we were able to print out message.
 This time, using *cin*, We can use the user's input and use that.
 
