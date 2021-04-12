@@ -3,7 +3,6 @@
 Here is pointer information chart
 ```
 | Action | Punctuation needed | Example |
-|---|---|---|
 |Declare a Pointer|*|int *p_x;|
 |Get address held by pointer|Nothing|cout << p_x;|
 |Set address stored in pointer|Nothing|int *p_x; p_x = /*address*/|
