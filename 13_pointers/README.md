@@ -1,6 +1,7 @@
 # Pointer
 ## Pointer Char
 Here is pointer information chart
+
 | Action | Punctuation needed | Example |
 | Declare a Pointer|\*|int \*p\_x;|
 | Get address held by pointer|Nothing|cout << p\_x;|
