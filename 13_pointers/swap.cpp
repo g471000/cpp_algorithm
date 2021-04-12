@@ -11,7 +11,7 @@ void swap1 (int left, int right)
 
 void swap2 (int *p_left, int *p_right)
 {
-		int temp = *p_left;;
+		int temp = *p_left;
 		*p_left = *p_right;
 		*p_right = temp;
 }
