@@ -1,6 +1,7 @@
 # Pointer
 ## Pointer Char
 Here is pointer information chart
+```
 | Action | Punctuation needed | Example |
 |___|___|___|
 |Declare a Pointer|*|int *p_x;|
@@ -13,4 +14,5 @@ Here is pointer information chart
 |Set value stored in a variable|Nothing|int y; y = 5;|
 |Get address of a variable|&|int y; int *p_x; p_x = &y;|
 |Set address of variable|Nothing|Not Possible! a variable cannot change addresses|
+```
 
